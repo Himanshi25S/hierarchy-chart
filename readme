@@ -1,0 +1,42 @@
+Dynamic Navbar:
+
+A sleek and responsive navigation bar that collapses into a hamburger menu on smaller devices for a clean and accessible UI.
+
+Smooth transition effects for better user experience.
+
+Hero Section:
+
+A captivating hero section with a background image and a welcoming title.
+
+Adaptive image scaling using media queries to maintain full visibility on all devices.
+
+About Section:
+
+A brief and engaging introduction to Adobe’s leadership philosophy and commitment to innovation.
+
+Modern and clean design with subtle hover animations.
+
+Organization Chart:
+
+An interactive chart displaying the leadership hierarchy from the CEO down to junior roles.
+
+A secondary chart demonstrating a hierarchical structure for architectural companies.
+
+Clear and concise representation of roles with a symmetric, balanced layout.
+
+Responsive Design:
+
+Fully compatible with various devices, including smartphones (like iPhone) and smart displays (like Nest Hub).
+
+Symmetrical layouts ensure aesthetic consistency and complete image visibility.
+
+Footer Section:
+
+Simple and clean footer containing contact information and copyright details.
+
+🎨 Technology Stack:
+HTML: Structure and layout.
+
+CSS: Styling, responsiveness, and animations.
+
+Media Queries: Enhanced responsiveness and adaptive design.
